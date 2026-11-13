@@ -1,0 +1,10 @@
+The data files in data/ and results/ are released under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Dac-Tot Tran, Anh-Tu Tran, Khuong Nguyen-An, The-Dung Luong
+
+You may share and adapt the data for any purpose, provided that you give appropriate credit (cite the paper
+or this repository), provide a link to the licence and indicate if changes were made.
+
+MalwareBazaar metadata (hashes, signatures, first-seen dates) originates from abuse.ch
+(https://bazaar.abuse.ch) and remains subject to its terms of use.

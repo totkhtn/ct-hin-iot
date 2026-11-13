@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "CT-HIN: Campaign-Transductive Heterogeneous Information Networks for Cross-Architecture IoT Malware Detection under Temporal Drift"
+version: 1.0.0
+date-released: 2026-11-12
+license: MIT
+repository-code: "https://github.com/totkhtn/ct-hin-iot"
+authors:
+  - family-names: Tran
+    given-names: Dac-Tot
+    affiliation: "Academy of Cryptography Techniques; Ho Chi Minh City University of Industry and Trade"
+  - family-names: Tran
+    given-names: Anh-Tu
+    affiliation: "Hanoi University of Science and Technology"
+  - family-names: Nguyen-An
+    given-names: Khuong
+    affiliation: "Ho Chi Minh City University of Technology (HCMUT), VNU-HCM"
+  - family-names: Luong
+    given-names: The-Dung
+    affiliation: "Institute of Cryptography Science and Technology"
+keywords: [IoT malware, cross-architecture detection, heterogeneous information network, transductive inference, label spreading, concept drift, pre-registration]
+preferred-citation:
+  type: article
+  title: "Campaign-Transductive Heterogeneous Information Networks for Cross-Architecture IoT Malware Detection under Temporal Drift"
+  authors:
+    - family-names: Tran
+      given-names: Dac-Tot
+    - family-names: Tran
+      given-names: Anh-Tu
+    - family-names: Nguyen-An
+      given-names: Khuong
+    - family-names: Luong
+      given-names: The-Dung
+  journal: "Journal of Science and Technology on Information Security"
+  year: 2026
+  notes: "Under review"
